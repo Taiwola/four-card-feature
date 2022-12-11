@@ -267,7 +267,7 @@
         height: 55vh
     }
  }
-@media (max-width:801px)  { 
+@media (max-width:878px)  { 
     /* tablet, landscape iPad, lo-res laptops ands desktops */
     .first-section .first-section-text p{
         width: 60vw;
@@ -295,5 +295,20 @@
     .second-section .third-card{
         width: 80vw;
         height: 60vh
+    }
+ }
+
+ @media screen and (max-width:1054px) {
+    .second-card .first-card{
+        height: 50vh;
+    }
+    .second-section .second-card .first-box{
+        height: 50vh;
+    }
+    .second-section .second-card .second-box{
+        height: 50vh;
+    }
+    .second-section .third-card{
+        height: 50vh;
     }
  }
