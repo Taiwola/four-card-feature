@@ -184,22 +184,22 @@
     }
 
     .second-section .first-card{
-        width: 90vw;
+        width: 100vw;
         height: 60vh;
     }
 
     .second-section .second-card .first-box{
-        width: 90vw;
+        width: 100vw;
         height: 60vh
     }
 
     .second-section .second-card .second-box{
-        width: 90vw;
+        width: 100vw;
         height: 60vh
     }
 
     .second-section .third-card{
-        width: 90vw;
+        width: 100vw;
         height: 60vh
     }
 
@@ -217,22 +217,22 @@
     }
 
     .second-section .first-card{
-        width: 90vw;
+        width: 100vw;
         height: 55vh;
     }
 
     .second-section .second-card .first-box{
-        width: 90vw;
+        width: 100vw;
         height: 55vh
     }
 
     .second-section .second-card .second-box{
-        width: 90vw;
+        width: 100vw;
         height: 55vh
     }
 
     .second-section .third-card{
-        width: 90vw;
+        width: 100vw;
         height: 50vh
     }
  }
@@ -248,22 +248,22 @@
     }
 
     .second-section .first-card{
-        width: 90vw;
+        width: 100vw;
         height: 55vh;
     }
 
     .second-section .second-card .first-box{
-        width: 90vw;
+        width: 100vw;
         height: 55vh
     }
 
     .second-section .second-card .second-box{
-        width: 90vw;
+        width: 100vw;
         height: 55vh
     }
 
     .second-section .third-card{
-        width: 90vw;
+        width: 100vw;
         height: 55vh
     }
  }
@@ -278,22 +278,22 @@
     }
 
     .second-section .first-card{
-        width: 90vw;
+        width: 100vw;
         height: 60vh;
     }
 
     .second-section .second-card .first-box{
-        width: 90vw;
+        width: 100vw;
         height: 60vh
     }
 
     .second-section .second-card .second-box{
-        width: 90vw;
+        width: 100vw;
         height: 60vh
     }
 
     .second-section .third-card{
-        width: 90vw;
+        width: 100vw;
         height: 60vh
     }
  }
@@ -332,7 +332,7 @@
 /* @media (max-width:1281px) 
 { 
     /* hi-res laptops and desktops */ 
-    .first-section .first-section-text p{
+    /* .first-section .first-section-text p{
         width: 60vw;
     }
     .second-section{
@@ -358,5 +358,5 @@
     .second-section .third-card{
         width: 40vw;
         height: 50vh
-    }
+    } */
 } */
