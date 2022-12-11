@@ -184,22 +184,22 @@
     }
 
     .second-section .first-card{
-        width: 80vw;
+        width: 90vw;
         height: 60vh;
     }
 
     .second-section .second-card .first-box{
-        width: 80vw;
+        width: 90vw;
         height: 60vh
     }
 
     .second-section .second-card .second-box{
-        width: 80vw;
+        width: 90vw;
         height: 60vh
     }
 
     .second-section .third-card{
-        width: 80vw;
+        width: 90vw;
         height: 60vh
     }
 
@@ -217,23 +217,23 @@
     }
 
     .second-section .first-card{
-        width: 80vw;
-        height: 60vh;
+        width: 90vw;
+        height: 55vh;
     }
 
     .second-section .second-card .first-box{
-        width: 80vw;
-        height: 60vh
+        width: 90vw;
+        height: 55vh
     }
 
     .second-section .second-card .second-box{
-        width: 80vw;
-        height: 60vh
+        width: 90vw;
+        height: 55vh
     }
 
     .second-section .third-card{
-        width: 80vw;
-        height: 60vh
+        width: 90vw;
+        height: 50vh
     }
  }
 @media (max-width:600px) 
@@ -248,23 +248,23 @@
     }
 
     .second-section .first-card{
-        width: 80vw;
-        height: 60vh;
+        width: 90vw;
+        height: 55vh;
     }
 
     .second-section .second-card .first-box{
-        width: 80vw;
-        height: 60vh
+        width: 90vw;
+        height: 55vh
     }
 
     .second-section .second-card .second-box{
-        width: 80vw;
-        height: 60vh
+        width: 90vw;
+        height: 55vh
     }
 
     .second-section .third-card{
-        width: 80vw;
-        height: 60vh
+        width: 90vw;
+        height: 55vh
     }
  }
 @media (max-width:801px)  { 
@@ -278,22 +278,22 @@
     }
 
     .second-section .first-card{
-        width: 80vw;
+        width: 90vw;
         height: 60vh;
     }
 
     .second-section .second-card .first-box{
-        width: 80vw;
+        width: 90vw;
         height: 60vh
     }
 
     .second-section .second-card .second-box{
-        width: 80vw;
+        width: 90vw;
         height: 60vh
     }
 
     .second-section .third-card{
-        width: 80vw;
+        width: 90vw;
         height: 60vh
     }
  }
@@ -329,7 +329,7 @@
     }
      
 }
-@media (max-width:1281px) 
+/* @media (max-width:1281px) 
 { 
     /* hi-res laptops and desktops */ 
     .first-section .first-section-text p{
@@ -359,4 +359,4 @@
         width: 40vw;
         height: 50vh
     }
-}
+} */
